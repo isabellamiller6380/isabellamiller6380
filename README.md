@@ -1,7 +1,7 @@
 # Hi, I'm isabellamiller6380 👋
 
-I'm a ML Engineer working with Python, Django, PostgreSQL.
+I'm a Mobile Developer working with Rust, WebAssembly.
 
-📍 United States
+📍 South Korea
 
 Always open to interesting projects and collaborations.
